@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it."
+title: "RQ3 — LLM-assisted Text CAPTCHA Demo (VueJS Service + Standalone Scripts)"
+type: software
+authors:
+  - family-names: "Rahartomo"
+    given-names: "Argianto"
+  - family-names: "Kaur"
+    given-names: "Harpreet"
+repository-code: "https://github.com/suikohero38/rq3-llm-captcha-demo"
+url: "https://github.com/suikohero38/rq3-llm-captcha-demo"
+license: "MIT"
+keywords:
+  - LLM
+  - VueJS
+  - security
+  - usability
+  - captcha
