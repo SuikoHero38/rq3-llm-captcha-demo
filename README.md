@@ -40,6 +40,25 @@ Then run your Vue dev server as usual.
 - Requires user-provided API keys (not included)
 - Only demonstrates a **sample text CAPTCHA image** and a minimal pipeline
 
+## Associated Publication
+Parts of this repository (RQ3 prototype and service component) relate to the following publication:
+
+Rahartomo, Argianto; Kaur, Harpreet; Ghafari, Mohammad.
+Gameful Introduction to Cryptography for Dyslexic Students.
+Proceedings of the 36th International Conference on Software Engineering Education and Training (CSEE and T), 2024, pages 1–5.
+DOI: https://doi.org/10.1109/CSEET62301.2024.10663005
+
+`BibTeX`
+@INPROCEEDINGS{10663005,
+author={Rahartomo, Argianto and Kaur, Harpreet and Ghafari, Mohammad},
+booktitle={2024 36th International Conference on Software Engineering Education and Training (CSEE and T)},
+title={Gameful Introduction to Cryptography for Dyslexic Students},
+year={2024},
+pages={1-5},
+keywords={Training;Conferences;Writing;Dyslexia;Encryption;Inclusive education;dyslexia;cryptography;gameful experience},
+doi={10.1109/CSEET62301.2024.10663005}
+}
+
 ## License
 MIT (see LICENSE)
 
